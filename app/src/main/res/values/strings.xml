@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IperCalculator</string>
+    <string name="operators" translatable="false">ro.razvan.ipercalculator.OPERATORS_KEY</string>
+    <string name="operands" translatable="false">ro.razvan.ipercalculator.OPERANDS_KEY</string>
+</resources>
